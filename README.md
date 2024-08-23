@@ -1,6 +1,8 @@
 # corne-cherry
 My Corne Cherry v.3
 
+(https://github.com/ekilimchuk/corne-cherry/blob/main/photo/corne.jpeg?raw=true)
+
 ## Install firmware
 1) Install QMK Toolbox
 - For Mac OS: brew install qmk-toolbox;
